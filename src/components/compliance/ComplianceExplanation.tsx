@@ -23,7 +23,7 @@ export default function ComplianceExplanation() {
           </div>
           <div className="relative">
             <img
-              src="https://tenants2guest.com/wp-content/uploads/2024/09/Firefly-Security-hacker-in-a-hood-face-black-out-as-if-the-hood-is-causing-a-shadow-from-an-empty-c-1536x1536.jpg"
+              src="blob:https://x.com/aad6fa19-cd23-480b-9ad3-6044b5738da0"
               alt="Security system interface"
               className="rounded-lg shadow-xl"
             />
