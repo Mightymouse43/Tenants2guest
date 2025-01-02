@@ -23,7 +23,7 @@ export default function ComplianceExplanation() {
           </div>
           <div className="relative">
             <img
-              src="blob:https://x.com/aad6fa19-cd23-480b-9ad3-6044b5738da0"
+              src="https://www.shutterstock.com/shutterstock/photos/2522939823/display_1500/stock-photo-you-can-take-a-photograph-with-the-subject-of-cybersecurity-since-the-month-of-october-is-2522939823.jpg"
               alt="Security system interface"
               className="rounded-lg shadow-xl"
             />
