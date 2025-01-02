@@ -77,7 +77,7 @@ export default function About() {
           </div>
           <div className="relative aspect-[3/4] w-full">
             <img
-              src="https://tenants2guest.com/wp-content/uploads/2024/09/001-70-scaled.jpg"
+              src="https://a0.muscache.com/im/pictures/prohost-api/Hosting-1016651365896770004/original/4bfed27b-c75c-4a8f-a38c-bc6163258ce2.jpeg?im_w=1200&im_format=avif"
               alt="Modern home exterior"
               className="rounded-lg shadow-xl object-cover w-full h-full"
             />
