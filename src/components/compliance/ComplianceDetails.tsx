@@ -10,7 +10,7 @@ export default function ComplianceDetails() {
 
   const securityDetails = [
     "To ensure the safety of the property, proper occupancy, and appropriate noise levels, we use a security suite of noise monitoring, smart locks, and cameras.",
-    "Our smart lock system provides unique codes for each guest and maintains detailed access logs.",
+    "🧠🔒 Our smart lock system provides unique codes for each guest and maintains detailed access logs.",
     "Noise monitoring devices alert us to potential disturbances without recording audio.",
     "External security cameras allows us to enforce occupancy and make sure the right guest is entering the home."
   ];
