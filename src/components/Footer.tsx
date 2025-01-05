@@ -1,5 +1,6 @@
 import React from 'react';
 import { Building2, Mail, Phone, Instagram, Facebook } from 'lucide-react';
+import { Link } from 'react-router-dom';
 
 export default function Footer() {
   return (
@@ -17,7 +18,7 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold text-white mb-4">Quick Links</h3>
             <ul className="space-y-2">
-              <li><a href="#about" className="hover:text-blue-500 transition">About Us</a></li>
+            <li><Link to="/about" className="hover:text-blue-500 transition">About Us</Link></li>
               <li><a href="#compliance" className="hover:text-blue-500 transition">Compliance</a></li>
               <li><a href="#listings" className="hover:text-blue-500 transition">Listings</a></li>
             </ul>
