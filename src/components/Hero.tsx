@@ -17,10 +17,10 @@ export default function Hero() {
       <div className="relative pt-32 pb-16 sm:pt-40 sm:pb-24">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl sm:text-6xl font-bold text-white mb-6">
-            Welcome to Tenants 2 Guest
+            A Landlords Ultimate Ally!
           </h1>
           <p className="text-xl text-gray-200 mb-12 max-w-3xl mx-auto">
-            Your premier vacation home rental agency in the San Francisco Bay Area. With over five years of experience in the industry, we specialize in providing top-notch property management services and vacation rental experiences for both homeowners and guests.
+            Escape the tenant turnover nightmare and meet your forever tenant
           </p>
           
           <div className="flex flex-col sm:flex-row justify-center gap-4 max-w-2xl mx-auto">
