@@ -3,7 +3,7 @@ import StepCarousel from './StepCarousel';
 
 export default function ComplianceDetails() {
   const screeningDetails = [
-    "This is the first compliance step that occurs when a potential guest requests to book with Tenants 2 Guest.",
+    "👮‍♂️🦹‍♂️ This is the first compliance step that occurs when a potential guest requests to book with Tenants 2 Guest.",
     "The primary guest on all Tenants 2 Guest reservations is screened for criminal background, regardless of the booking platform.",
     "A guest must successfully pass all levels of Tenants 2 Guest's screening process or their reservation will be canceled."
   ];
@@ -11,8 +11,8 @@ export default function ComplianceDetails() {
   const securityDetails = [
     "To ensure the safety of the property, proper occupancy, and appropriate noise levels, we use a security suite of noise monitoring, smart locks, and cameras.",
     "🧠🔒 Our smart lock system provides unique codes for each guest and maintains detailed access logs.",
-    "Noise monitoring devices alert us to potential disturbances without recording audio.",
-    "External security cameras allows us to enforce occupancy and make sure the right guest is entering the home."
+    "🔇 Noise monitoring devices alert us to potential disturbances without recording audio.",
+    "📹 External security cameras allows us to enforce occupancy and make sure the right guest is entering the home."
   ];
 
   return (
@@ -38,7 +38,7 @@ export default function ComplianceDetails() {
             </div>
             <div className="p-6">
               <p className="text-lg text-gray-700 leading-relaxed">
-                Once our clients have passed our screening process, they must sign our rental agreement, 
+              📜 Once our clients have passed our screening process, they must sign our rental agreement, 
                 regardless of the booking platform which includes our community standards for the duration 
                 of their stay. The client's signature is legally binding with timestamps and their IP addresses.
               </p>

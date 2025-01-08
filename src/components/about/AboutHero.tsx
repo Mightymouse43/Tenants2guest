@@ -10,7 +10,7 @@ export default function AboutHero() {
             About <span className="text-pink-500">Us</span>
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Welcome to Tenants2Guest! We are a corporate housing company based out of the San Francisco Bay Area, helping homeowners and investors transform traditional landlording into modern hospitality.With over five years of experience in the industry, we specialize in providing top-notch vacation rental experiences for all types of travelers. 
+            Welcome to Tenants2Guest! We are a corporate housing company based out of the San Francisco Bay Area, helping homeowners and investors transform traditional landlording into modern hospitality. With over five years of experience in the industry, we specialize in providing top-notch vacation rental experiences for all types of travelers. 
           </p>
         </div>
       </div>
